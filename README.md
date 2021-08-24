@@ -16,7 +16,7 @@ Storm UI 提供的 REST API 获取集群数据，基本上 Storm UI 上的所有
 
 请求前缀：
 
-http://<ui-host>:<ui-port>/api/v1/...
+http://\<ui-host>:\<ui-port>/api/v1/...
 
 
 

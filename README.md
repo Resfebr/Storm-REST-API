@@ -57,3 +57,6 @@ processLatency:Average time of the bolt to ack a message after it was received
 executeLatency:Average time to run the execute method of the bolt
 
 capacity:This value indicates number of messages executed * average execute latency / time window
+
+
+
